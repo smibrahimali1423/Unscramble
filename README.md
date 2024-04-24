@@ -1,6 +1,7 @@
 # Unscramble
 
 "Unscramble" is a captivating word puzzle game that challenges players to put their vocabulary and problem-solving abilities to the test. Players are presented with a jumbled word and tasked with rearranging its letters to form the correct word. 
+
 One of the highlights of **Unscramble** is its scoring system, which rewards players based on the length of the words they unscramble. If you manage to surpass your previous high score, a new high score is set and in stored in the phone's storage 
 so that the next time you play, the bar is set higher for you beat!
 
@@ -40,7 +41,9 @@ MVVM (Model-View-ViewModel) architecture pattern
 
 ## Acknowledgements
 
-This project incorporates elements from Google's codebase, licensed under the Apache License, Version 2.0. 
+This project incorporates elements from Google's codebase, 
+licensed under the Apache License, Version 2.0. 
+
 The majority of the project comprises original code developed by Syed Mohammed Ibrahim Ali.
 
 ## Contact
