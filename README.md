@@ -2,7 +2,7 @@
 
 **Unscramble** is a word puzzle game that challenges players to put their vocabulary and problem-solving abilities to the test. Players are presented with a jumbled word and tasked with rearranging its letters to form the correct word. 
 
-One of the highlights of **Unscramble** is its scoring system, which rewards players based on the length of the words they unscramble. However, if a word is too difficult for the user to guess, they can skip the word. There are a total of 10 words in each session of the game.
+One of the highlights of **Unscramble** is its scoring system, which rewards players based on the length of the words they unscramble. However, if a word is too difficult for the player to guess, they can skip the word. There are a total of 10 words in each session of the game.
 
 If you manage to surpass your previous high score, a new high score is set and in stored in the phone's storage
 so that the next time you play, the bar is set higher for you beat!
